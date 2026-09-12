@@ -1,6 +1,6 @@
 let handler = async (m) => {
 	try {
-		const raw = await fetch('https://api.github.com/repos/AgusXzz/ChiiMD');
+		const raw = await fetch('https://api.github.com/repos/rexxzyid/Elaina-Multidevice');
 		if (!raw.ok) return m.reply('Gagal Mendapatkan Info Repository');
 		const res = await raw.json();
 
