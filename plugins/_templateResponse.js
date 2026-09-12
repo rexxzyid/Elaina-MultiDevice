@@ -1,5 +1,3 @@
-import { proto, generateWAMessage, areJidsSameUser } from 'baileys';
-
 export async function all(m, chatUpdate) {
 	if (m.isBaileys) return;
 	if (!m.message) return;
@@ -28,7 +26,7 @@ export async function all(m, chatUpdate) {
 												? m.message.buttonsResponseMessage?.selectedButtonId || m.message.listResponseMessage?.singleSelectReply.selectedRowId || m.text
 												: '';
 
-	let messages = await generateWAMessage(
+	let messages = await baileys.generateWAMessage(
 		m.chat,
 		{ text: id, mentions: m.mentionedJid },
 		{
@@ -37,13 +35,13 @@ export async function all(m, chatUpdate) {
 		}
 	);
 	messages.key.remoteJid = m.chat;
-	messages.key.fromMe = areJidsSameUser(m.sender, this.user.id);
+	messages.key.fromMe = baileys.areJidsSameUser(m.sender, this.user.id);
 	messages.key.id = m.key.id;
 	messages.pushName = m.pushName;
 	if (m.isGroup) messages.key.participant = messages.participant = m.sender;
 	let msg = {
 		...chatUpdate,
-		messages: [proto.WebMessageInfo.create(messages)].map((v) => ((v.conn = this), v)),
+		messages: [baileys.proto.WebMessageInfo.create(messages)].map((v) => ((v.conn = this), v)),
 		type: 'append',
 	};
 	this.ev.emit('messages.upsert', msg);

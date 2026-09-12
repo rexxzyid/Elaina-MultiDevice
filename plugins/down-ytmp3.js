@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { delay } from 'baileys';
 import { toAudio } from '../lib/converter.js';
 
 let handler = async (m, { usedPrefix, command, text }) => {
@@ -68,6 +67,6 @@ export async function ytdown(url, type = 'video') {
 			};
 		}
 
-		await delay(5000);
+		await baileys.delay(5000);
 	}
 }

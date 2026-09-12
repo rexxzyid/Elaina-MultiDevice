@@ -1,5 +1,3 @@
-import { proto, generateWAMessage, areJidsSameUser } from 'baileys';
-
 export async function all(m, chatUpdate) {
 	if (m.isBaileys) return;
 	if (!m.message) return;
@@ -8,7 +6,7 @@ export async function all(m, chatUpdate) {
 	if (!(hash in global.db.data.sticker)) return;
 
 	let { text, mentionedJid } = global.db.data.sticker[hash];
-	let messages = await generateWAMessage(
+	let messages = await baileys.generateWAMessage(
 		m.sender,
 		{ text: text, mentions: mentionedJid },
 		{
@@ -17,13 +15,13 @@ export async function all(m, chatUpdate) {
 		}
 	);
 	messages.key.remoteJid = m.chat;
-	messages.key.fromMe = areJidsSameUser(m.chat, this.user.id);
+	messages.key.fromMe = baileys.areJidsSameUser(m.chat, this.user.id);
 	messages.key.id = m.key.id;
 	messages.pushName = m.pushName;
 	if (m.isGroup) messages.key.participant = m.sender;
 	let msg = {
 		...chatUpdate,
-		messages: [proto.WebMessageInfo.create(messages)],
+		messages: [baileys.proto.WebMessageInfo.create(messages)],
 		type: 'append',
 	};
 	this.ev.emit('messages.upsert', msg);

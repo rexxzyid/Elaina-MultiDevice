@@ -1,5 +1,3 @@
-import { delay } from 'baileys';
-
 let handler = async (m, { text }) => {
 	const nominal = parseInt(text);
 	if (!nominal) throw 'Jumlahnya berapa?';
@@ -48,7 +46,7 @@ let handler = async (m, { text }) => {
 			break;
 		}
 
-		await delay(10000);
+		await baileys.delay(10000);
 	}
 };
 

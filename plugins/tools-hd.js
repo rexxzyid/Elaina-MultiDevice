@@ -1,6 +1,5 @@
 import axios from 'axios';
 import FormData from 'form-data';
-import { delay } from 'baileys';
 
 let handler = async (m, { usedPrefix, command }) => {
 	let quoted = m.quoted ? m.quoted : m;
@@ -55,7 +54,7 @@ async function upscale(buffer, rasio = 2) {
 			return result;
 		}
 
-		await delay(5000);
+		await baileys.delay(5000);
 	}
 
 	throw new Error('Upscale Timeout');
