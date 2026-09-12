@@ -71,7 +71,7 @@ Pastikan sistem Anda memenuhi requirement berikut:
 
     ```bash
     git clone https://github.com/rexxzyid/Elaina-Multidevice.git
-    cd ChiiMD
+    cd Elaina-Multidevice
     ```
 
 2. **Install dependensi:**
