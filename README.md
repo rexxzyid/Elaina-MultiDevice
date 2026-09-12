@@ -185,7 +185,7 @@ module.exports = {
 ## 📂 Struktur Proyek
 
 ```
-ChiiMD/
+Elaina-Multidevice/
 ├── plugins/          # Folder utama untuk semua fitur bot
 │   ├── ai/          # Plugin AI (GPT, Deepseek, dll)
 │   ├── downloader/  # Plugin downloader
