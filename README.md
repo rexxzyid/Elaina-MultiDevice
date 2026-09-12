@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="media/thumbnail.jpeg" alt="ChiiBot Banner" width="400"/>
+  <img src="media/thumbnail.jpeg" alt="Elaina-Multidevice Banner" width="400"/>
 </p>
 
-<h1 align="center">TakanashiHosino-MD - Bot WhatsApp Multi-Device</h1>
+<h1 align="center">Elaina-Multidevice - Bot WhatsApp Multi-Device</h1>
 
 <p align="center">
-  <a href="https://github.com/rexxzyid/TakanashiHosino-MD"><img src="https://img.shields.io/github/stars/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
-  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/network/members"><img src="https://img.shields.io/github/forks/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=9c27b0" alt="Forks"></a>
-  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/issues"><img src="https://img.shields.io/github/issues/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
-  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=blue" alt="License"></a>
+  <a href="https://github.com/rexxzyid/Elaina-Multidevice"><img src="https://img.shields.io/github/stars/rexxzyid/Elaina-Multidevice?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
+  <a href="https://github.com/rexxzyid/Elaina-Multidevice/network/members"><img src="https://img.shields.io/github/forks/rexxzyid/Elaina-Multidevice?style=for-the-badge&logo=github&color=9c27b0" alt="Forks"></a>
+  <a href="https://github.com/rexxzyid/Elaina-Multidevice/issues"><img src="https://img.shields.io/github/issues/rexxzyid/Elaina-Multidevice?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
+  <a href="https://github.com/rexxzyid/Elaina-Multidevice/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rexxzyid/Elaina-Multidevice?style=for-the-badge&logo=github&color=blue" alt="License"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>TakanashiHosino-MD</strong> adalah bot WhatsApp modern yang dibangun menggunakan <strong><a href="https://github.com/rexxzyid/elaina-baileys">@rexxhayanasi/elaina-baileys</a></strong> dengan dukungan Multi-Device. Bot ini dirancang untuk memberikan pengalaman yang mudah digunakan, ringan, dan mudah dikembangkan.
+  <strong>Elaina-Multidevice</strong> adalah bot WhatsApp modern yang dibangun menggunakan <strong><a href="https://github.com/rexxzyid/elaina-baileys">@rexxhayanasi/elaina-baileys</a></strong> dengan dukungan Multi-Device. Bot ini dirancang untuk memberikan pengalaman yang mudah digunakan, ringan, dan mudah dikembangkan.
 </p>
 
 ---
@@ -70,7 +70,7 @@ Pastikan sistem Anda memenuhi requirement berikut:
 1. **Clone repository ini:**
 
     ```bash
-    git clone https://github.com/rexxzyid/TakanashiHosino-MD.git
+    git clone https://github.com/rexxzyid/Elaina-Multidevice.git
     cd ChiiMD
     ```
 
@@ -168,7 +168,7 @@ Anda dapat menyesuaikan berbagai aspek bot melalui file `config.js`:
 module.exports = {
 	owner: ['62xxx'], // Nomor owner
 	prefix: '.', // Prefix command
-	botName: 'ChiiBot',
+	botName: 'Elaina-Multidevice',
 	// ... konfigurasi lainnya
 };
 ```
@@ -286,12 +286,12 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan:
 
 - **Group WhatsApp:** [Join Group](https://chat.whatsapp.com/CLARrmIDTFVDNk5sVVSyLo?s=cl&p=a&mlu=4)
 - **Channel WhatsApp:** [Follow Channel](https://whatsapp.com/channel/0029Vb8RvQKEFeXmGnJr621s)
-- **Issues:** [GitHub Issues](https://github.com/rexxzyid/TakanashiHosino-MD/issues)
+- **Issues:** [GitHub Issues](https://github.com/rexxzyid/Elaina-Multidevice/issues)
 
 ---
 
 <p align="center">
-  <em>TakanashiHosino-MD Reference Dibuat Oleh<a href="https://github.com/AgusXzz">AgusXzz</a> Sebagai ChiiMD dan dimodifikasi kembali oleh <a href="https://github.com/rexxzyid">RexxHayanasi</a></em>
+  <em>Elaina-Multidevice Reference Dibuat Oleh<a href="https://github.com/AgusXzz">AgusXzz</a> Sebagai ChiiMD dan dimodifikasi kembali oleh <a href="https://github.com/rexxzyid">RexxHayanasi</a></em>
 </p>
 
 <p align="center">
