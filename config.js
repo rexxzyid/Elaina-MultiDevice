@@ -7,7 +7,7 @@ global.owner = [
 	['62812345678', 'RexxHayanasi', true]
 ];
 
-global.namebot = 'TakanashiHosino-MD';
+global.namebot = 'Elaina-Multidevice';
 global.author = 'RexxHayanasi';
 global.source = 'https://chat.whatsapp.com/CLARrmIDTFVDNk5sVVSyLo?s=cl&p=a&mlu=4';
 
