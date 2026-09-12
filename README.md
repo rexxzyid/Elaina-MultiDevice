@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="media/thumbnail.jpg" alt="ChiiBot Banner" width="400"/>
+  <img src="media/thumbnail.jpeg" alt="ChiiBot Banner" width="400"/>
 </p>
 
-<h1 align="center">ChiiBot - Bot WhatsApp Multi-Device</h1>
+<h1 align="center">TakanashiHosino-MD - Bot WhatsApp Multi-Device</h1>
 
 <p align="center">
-  <a href="https://github.com/AgusXzz/ChiiMD"><img src="https://img.shields.io/github/stars/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
-  <a href="https://github.com/AgusXzz/ChiiMD/network/members"><img src="https://img.shields.io/github/forks/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=9c27b0" alt="Forks"></a>
-  <a href="https://github.com/AgusXzz/ChiiMD/issues"><img src="https://img.shields.io/github/issues/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
-  <a href="https://github.com/AgusXzz/ChiiMD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=blue" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://chat.whatsapp.com/ELDiJRVGKAk5BpQ0o9cSr9?mode=hqrc"><img src="https://img.shields.io/badge/GROUP%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Group WhatsApp"></a>
-  <a href="https://whatsapp.com/channel/0029Vb5rT77Ae5Vqi7s27P3L"><img src="https://img.shields.io/badge/CHANNEL%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Channel WhatsApp"></a>
+  <a href="https://github.com/rexxzyid/TakanashiHosino-MD"><img src="https://img.shields.io/github/stars/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
+  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/network/members"><img src="https://img.shields.io/github/forks/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=9c27b0" alt="Forks"></a>
+  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/issues"><img src="https://img.shields.io/github/issues/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
+  <a href="https://github.com/rexxzyid/TakanashiHosino-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=blue" alt="License"></a>
 </p>
 
 <p align="center">
-  <strong>ChiiBot</strong> adalah bot WhatsApp modern yang dibangun menggunakan <strong><a href="https://github.com/WhiskeySockets/Baileys">Baileys</a></strong> dengan dukungan Multi-Device. Bot ini dirancang untuk memberikan pengalaman yang mudah digunakan, ringan, dan mudah dikembangkan.
+  <a href="https://chat.whatsapp.com/CLARrmIDTFVDNk5sVVSyLo?s=cl&p=a&mlu=4"><img src="https://img.shields.io/badge/GROUP%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Group WhatsApp"></a>
+  <a href="https://whatsapp.com/channel/0029Vb8RvQKEFeXmGnJr621s"><img src="https://img.shields.io/badge/CHANNEL%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Channel WhatsApp"></a>
+</p>
+
+<p align="center">
+  <strong>TakanashiHosino-MD</strong> adalah bot WhatsApp modern yang dibangun menggunakan <strong><a href="https://github.com/rexxzyid/elaina-baileys">@rexxhayanasi/elaina-baileys</a></strong> dengan dukungan Multi-Device. Bot ini dirancang untuk memberikan pengalaman yang mudah digunakan, ringan, dan mudah dikembangkan.
 </p>
 
 ---
@@ -70,7 +70,7 @@ Pastikan sistem Anda memenuhi requirement berikut:
 1. **Clone repository ini:**
 
     ```bash
-    git clone https://github.com/AgusXzz/ChiiMD.git
+    git clone https://github.com/rexxzyid/TakanashiHosino-MD.git
     cd ChiiMD
     ```
 
@@ -274,7 +274,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan,
 
 ## 🙏 Acknowledgments
 
-- [Baileys](https://github.com/WhiskeySockets/Baileys) - Library WhatsApp Web API
+- [@rexxhayanasi/elaina-baileys](https://github.com/rexxzyid/elaina-baileys) - Library WhatsApp Web API
 - Semua kontributor yang telah membantu mengembangkan proyek ini
 - Komunitas open source yang terus memberikan dukungan
 
@@ -284,14 +284,14 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan,
 
 Jika Anda memiliki pertanyaan atau membutuhkan bantuan:
 
-- **Group WhatsApp:** [Join Group](https://chat.whatsapp.com/ELDiJRVGKAk5BpQ0o9cSr9?mode=hqrc)
-- **Channel WhatsApp:** [Follow Channel](https://whatsapp.com/channel/0029Vb5rT77Ae5Vqi7s27P3L)
-- **Issues:** [GitHub Issues](https://github.com/AgusXzz/ChiiMD/issues)
+- **Group WhatsApp:** [Join Group](https://chat.whatsapp.com/CLARrmIDTFVDNk5sVVSyLo?s=cl&p=a&mlu=4)
+- **Channel WhatsApp:** [Follow Channel](https://whatsapp.com/channel/0029Vb8RvQKEFeXmGnJr621s)
+- **Issues:** [GitHub Issues](https://github.com/rexxzyid/TakanashiHosino-MD/issues)
 
 ---
 
 <p align="center">
-  <em>Dibuat dengan ❤️ oleh <a href="https://github.com/AgusXzz">AgusXzz</a></em>
+  <em>ChiiMD Reference Dibuat Oleh<a href="https://github.com/AgusXzz">AgusXzz dan dimodifikasi kembali oleh <a href="https://github.com/rexxzyid">RexxHayanasi</a></em>
 </p>
 
 <p align="center">
