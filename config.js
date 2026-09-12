@@ -10,6 +10,7 @@ global.owner = [
 global.namebot = 'Elaina-Multidevice';
 global.author = 'RexxHayanasi';
 global.source = 'https://chat.whatsapp.com/CLARrmIDTFVDNk5sVVSyLo?s=cl&p=a&mlu=4';
+global.repo = 'https://github.com/rexxzyid/Elaina-Multidevice';
 
 global.wait = 'Loading...';
 global.eror = 'Terjadi Kesalahan...';

@@ -1,6 +1,7 @@
 let handler = async (m) => {
 	try {
-		const raw = await fetch('https://api.github.com/repos/rexxzyid/Elaina-Multidevice');
+		const slug = global.repo.replace(/^https?:\/\/github\.com\//, '').replace(/\.git$/, '');
+		const raw = await fetch(`https://api.github.com/repos/${slug}`);
 		if (!raw.ok) return m.reply('Gagal Mendapatkan Info Repository');
 		const res = await raw.json();
 
