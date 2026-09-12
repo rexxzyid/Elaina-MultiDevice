@@ -291,7 +291,7 @@ Jika Anda memiliki pertanyaan atau membutuhkan bantuan:
 ---
 
 <p align="center">
-  <em>ChiiMD Reference Dibuat Oleh<a href="https://github.com/AgusXzz">AgusXzz</a> dan dimodifikasi kembali oleh <a href="https://github.com/rexxzyid">RexxHayanasi</a></em>
+  <em>TakanashiHosino-MD Reference Dibuat Oleh<a href="https://github.com/AgusXzz">AgusXzz</a> Sebagai ChiiMD dan dimodifikasi kembali oleh <a href="https://github.com/rexxzyid">RexxHayanasi</a></em>
 </p>
 
 <p align="center">
