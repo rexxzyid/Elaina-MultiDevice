@@ -113,7 +113,7 @@ const el_api = 'f76b9f991fe424356b9c6da407792b1d1fbf33ad7a197bd0755b557a05461262
 
     conn.sendMessage(m.chat, { text: teks }, { quoted: m })
 
-  } catch (e) {
+  } catch {
     m.reply('Resi tidak ditemukan atau API error')
   }
 

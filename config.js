@@ -17,15 +17,14 @@ global.eror = 'Terjadi Kesalahan...';
 global.pakasir = {
 	slug: '',
 	apikey: '',
-	expired: , //1 = 1menit. 30 = 30menit
+	expired: 30,
 };
 
 global.stickpack = 'Created By';
 global.stickauth = namebot;
 
-global.multiplier = 38; // The higher, The harder levelup
+global.multiplier = 38;
 
-/*============== EMOJI ==============*/
 global.rpg = {
 	emoticon(string) {
 		string = string.toLowerCase();
