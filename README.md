@@ -5,7 +5,7 @@
 <h1 align="center">TakanashiHosino-MD - Bot WhatsApp Multi-Device</h1>
 
 <p align="center">
-  <a href="https://github.com/rexxzyid/TakanashiHosino-MD"><img src="https://img.shields.io/github/stars/AgusXzz/ChiiMD?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
+  <a href="https://github.com/rexxzyid/TakanashiHosino-MD"><img src="https://img.shields.io/github/stars/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=ffc107" alt="Stars"></a>
   <a href="https://github.com/rexxzyid/TakanashiHosino-MD/network/members"><img src="https://img.shields.io/github/forks/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=9c27b0" alt="Forks"></a>
   <a href="https://github.com/rexxzyid/TakanashiHosino-MD/issues"><img src="https://img.shields.io/github/issues/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
   <a href="https://github.com/rexxzyid/TakanashiHosino-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rexxzyid/TakanashiHosino-MD?style=for-the-badge&logo=github&color=blue" alt="License"></a>
